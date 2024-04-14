@@ -7,9 +7,9 @@ spec:
   lifecycle: unknown
   owner: pms
   coder:
-    templateName: "devcontainers"
+    templateName: "devcontainer"
     mode: "auto"
-    params:
-      repo: "custom"
-      region: "us-pittsburgh"
+#    params:
+#      repo: "custom"
+#      region: "us-pittsburgh"
 
